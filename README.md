@@ -20,3 +20,14 @@ Dengan memanfaatkan teknologi modern, aplikasi ini memberikan panduan dan inform
 - Informasi Bencana, Aplikasi memberikan pembaruan real-time mengenai bencana alam yang sedang terjadi, seperti gempa bumi, banjir, atau badai. Informasi ini disertai dengan analisis singkat mengenai tingkat risiko dan saran tindakan yang harus diambil.
 - Informasi Tempat Evakuasi, Pengguna dapat menemukan lokasi tempat evakuasi terdekat dari lokasi mereka saat ini. Informasi detail mengenai fasilitas dan kapasitas tempat evakuasi juga disertakan untuk membantu pengguna membuat keputusan yang tepat.
 - Nomor Darurat, Aplikasi menyediakan akses langsung ke nomor darurat yang relevan, seperti nomor kontak pusat penanggulangan bencana lokal, polisi, pemadam kebakaran, dan layanan kesehatan darurat. Hal ini memudahkan pengguna untuk segera meminta bantuan saat diperlukan
+
+
+## Project Thumbnail 
+
+<p float="left">
+    <img src="./docs/img/notesapp.png" alt="notesapp" width="250">
+    &nbsp;&nbsp;
+    <img src="./docs/img/home_page.png" alt="home_page" width="250">
+    &nbsp;&nbsp;
+    <img src="./docs/img/addnote_page.png" alt="addnote_page" width="250">
+</p>
