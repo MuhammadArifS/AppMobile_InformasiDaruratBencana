@@ -25,9 +25,21 @@ Dengan memanfaatkan teknologi modern, aplikasi ini memberikan panduan dan inform
 ## Project Thumbnail 
 
 <p float="left">
-    <img src="./docs/img/notesapp.png" alt="notesapp" width="250">
+    <img src="./docs/img/1.png" alt="notesapp" width="250">
     &nbsp;&nbsp;
-    <img src="./docs/img/home_page.png" alt="home_page" width="250">
+    <img src="./docs/img/2.png" alt="home_page" width="250">
     &nbsp;&nbsp;
-    <img src="./docs/img/addnote_page.png" alt="addnote_page" width="250">
+       <img src="./docs/img/3.png" alt="notesapp" width="250">
+    &nbsp;&nbsp;
+    <img src="./docs/img/4.png" alt="home_page" width="250">
+    &nbsp;&nbsp;
+       <img src="./docs/img/5.png" alt="notesapp" width="250">
+    &nbsp;&nbsp;
+    <img src="./docs/img/6.png" alt="home_page" width="250">
+    &nbsp;&nbsp;   
+    <img src="./docs/img/7.png" alt="notesapp" width="250">
+    &nbsp;&nbsp;
+    <img src="./docs/img/8.png" alt="home_page" width="250">
+    &nbsp;&nbsp;
+    <img src="./docs/img/9.png" alt="addnote_page" width="250">
 </p>
